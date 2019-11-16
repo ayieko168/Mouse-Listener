@@ -1,0 +1,1 @@
+A very simple script that listens for mouse movements and stpits out the cursor's position.
